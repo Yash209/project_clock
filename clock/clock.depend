@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678457304 source:c:\users\yash\desktop\codeblocks projects\clock\main.cpp
+	<iostream>
+	<windows.h>
+
